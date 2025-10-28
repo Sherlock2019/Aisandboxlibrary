@@ -1,0 +1,7 @@
+INFO:     Will watch for changes in these directories: ['/home/dzoan/AiSandbox2/agent-credit-appraisal']
+INFO:     Uvicorn running on http://127.0.0.1:8091 (Press CTRL+C to quit)
+INFO:     Started reloader process [411645] using WatchFiles
+INFO:     Started server process [411650]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:43252 - "GET /health HTTP/1.1" 200 OK
